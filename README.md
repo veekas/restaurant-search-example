@@ -4,7 +4,7 @@
 
 ## Note
 
-This is likely to stop working in **April 2018** because my Algolia demo subscription will expire. I'll need to modify this so it says "Powered by Algolia"
+This is likely to stop working in **April 2018** because my Algolia demo subscription will expire. To make it work using the free tier subscription, I'll need to (1) create new API keys, and/or (2) modify this so it says "Powered by Algolia"
 
 ## In progress
 
